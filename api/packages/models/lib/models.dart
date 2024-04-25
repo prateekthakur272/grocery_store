@@ -1,7 +1,8 @@
 library models;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/address.dart';
+export 'src/cart.dart';
+export 'src/cart_item.dart';
+export 'src/category.dart';
+export 'src/order.dart';
+export 'src/product.dart';
