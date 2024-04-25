@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:grocery_store/src/extensions/build_context_extension.dart';
 import 'package:grocery_store/src/widgets/bottom_nav_bar.dart';
 import 'package:grocery_store/src/widgets/search_bar.dart';
